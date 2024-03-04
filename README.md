@@ -1,16 +1,7 @@
 # Casinginan Project
 
-A brief description or tagline about your project.
+Hello. I am Je-r Casinginan and i am currently enrolled at Quezon City University. Still learning at coding.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies and commands needed.
 
 ```bash
 npm install
