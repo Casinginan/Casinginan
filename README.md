@@ -1,6 +1,6 @@
-# Casinginan Project
+# Hey, got something special?
 
-Hello. I am Je-r Casinginan and i am currently enrolled at Quezon City University. Still learning at coding.
+PROGRAM. COFFEE. EAT. TRAVEL. SLEEP
 
 
 ```bash
